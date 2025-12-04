@@ -1,6 +1,7 @@
 # Customer Churn Analysis & Prediction
 
 This project analyzes telecom customer churn and builds a predictive machine learning model to identify customers likely to leave the service. The workflow includes data preprocessing, exploratory data analysis (EDA), feature engineering, model training, evaluation, and hyperparameter tuning.
+"C:\Users\sawma\Pictures\Screenshots\Screenshot 2025-12-04 085220.png"
 
 ---
 
