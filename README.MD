@@ -122,9 +122,7 @@ Steps included:
 
 ## How to Run
 
-1. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
+working yet.....
 
 ## 🔎 Contact
 
