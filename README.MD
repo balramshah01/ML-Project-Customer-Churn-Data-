@@ -124,7 +124,7 @@ Steps included:
 
 working yet.....
 
-## 🔎 Contact
+## Contact
 
 📧 Email : sawmar044@gmail.com
 
