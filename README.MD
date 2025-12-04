@@ -6,16 +6,16 @@ This project analyzes telecom customer churn and builds a predictive machine lea
 
 ## Table of Contents
 1. [Project Overview](#project-overview)  
-2. [Dataset Description](-#dataset-description)  
-3. [Data Cleaning & Preprocessing](-#data-cleaning--preprocessing)  
-4. [Exploratory Data Analysis (EDA)](-#exploratory-data-analysis-eda)  
-5. [Feature Engineering](-#feature-engineering)  
-6. [Model Development](-#model-development)  
-7. [Model Improvement](-#model-improvement)  
-8. [Hyperparameter Tuning](-#hyperparameter-tuning)  
-9. [Feature Importance](-#feature-importance)  
-10. [Model Deployment](-#model-deployment)  
-11. [How to Run](-#how-to-run)
+2. [Dataset Description](#dataset-description)  
+3. [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)  
+4. [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)  
+5. [Feature Engineering](#feature-engineering)  
+6. [Model Development](#model-development)  
+7. [Model Improvement](#model-improvement)  
+8. [Hyperparameter Tuning](#hyperparameter-tuning)  
+9. [Feature Importance](#feature-importance)  
+10. [Model Deployment](#model-deployment)  
+11. [How to Run](#how-to-run)
 12. [Contact](#contact)
 
 ---
